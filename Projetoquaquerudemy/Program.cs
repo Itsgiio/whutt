@@ -8,6 +8,7 @@ namespace Projetoquaquerudemy
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Have a good day sir");
+            Console.WriteLine("How are you?");
         }
     }
 }
